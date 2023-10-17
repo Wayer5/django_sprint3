@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+/static_dev/
+/template/
 
 # C extensions
 *.so
