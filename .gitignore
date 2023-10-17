@@ -2,8 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-blogicum/static_dev
-blogicum/template
+static_dev/
+templates/
 
 # C extensions
 *.so
